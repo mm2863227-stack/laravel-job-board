@@ -12,8 +12,6 @@ class Job
 
         ['title'=>'Graphic Designer','salary'=>'3000$']
 
-
-
       ];
 
 
